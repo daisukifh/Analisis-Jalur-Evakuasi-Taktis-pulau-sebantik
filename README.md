@@ -71,7 +71,7 @@ Berdasarkan simulasi komputasi, **Sektor Selatan** teridentifikasi sebagai jalur
 **Fikri Hanif**
 * **NIM:** 247056016
 * **Instansi:** Universitas Sumatera Utara (USU)
-* *Program Studi Magister/Lanjutan*
+* *Program Studi Magister Sains Data dan Kecerdasan Buatan*
 
 ---
 *Dibuat sebagai bagian dari tugas akhir mata kuliah Data Spasial.*
