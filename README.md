@@ -5,12 +5,12 @@
 > **Status Proyek:** *Completed (UAS Data Spasial)*
 > **Lokasi:** Pulau Sebatik, Kalimantan Utara (Perbatasan Indonesia-Malaysia)
 
-## 📖 Ringkasan Eksekutif
+## Ringkasan Eksekutif
 Proyek ini bertujuan untuk merancang **Jalur Evakuasi Taktis** bagi warga sipil di Pulau Sebatik di tengah potensi eskalasi konflik blok Ambalat. Menggunakan analisis geospasial (GIS), penelitian ini menentukan rute teraman dan tercepat dengan menghindari area yang terpantau oleh radar musuh (Viewshed Analysis) dan memanfaatkan topografi alami sebagai pelindung.
 
 ---
 
-## 📌 Latar Belakang Masalah
+## Latar Belakang Masalah
 Ketegangan di Blok Ambalat (luas ~15.235 km²) dipicu oleh sengketa klaim wilayah antara Indonesia dan Malaysia. Indonesia berpegang pada UNCLOS 1982 (Landas Kontinen), sedangkan Malaysia menggunakan Peta Baru 1979.
 
 Situasi ini menuntut kesiapan mitigasi bencana non-alam, salah satunya adalah perencanaan evakuasi yang memperhitungkan:
@@ -19,7 +19,7 @@ Situasi ini menuntut kesiapan mitigasi bencana non-alam, salah satunya adalah pe
 
 ---
 
-## 🛠️ Metodologi & Algoritma
+## Metodologi & Algoritma
 
 ### 1. Load Balancing & Penerapan Algoritma
 ![Algoritma dan Pembagian Sektor](gambar/3.png)
@@ -40,7 +40,7 @@ Analisis ini mensimulasikan visibilitas dari kapal perang musuh untuk menentukan
 
 ---
 
-## 📊 Hasil Analisis & Visualisasi
+## Hasil Analisis & Visualisasi
 Berdasarkan simulasi komputasi, **Sektor Selatan** teridentifikasi sebagai jalur evakuasi paling taktis.
 
 ![Visualisasi Hasil Akhir](gambar/4.png)
@@ -56,7 +56,7 @@ Berdasarkan simulasi komputasi, **Sektor Selatan** teridentifikasi sebagai jalur
 
 ---
 
-## 💻 Tech Stack & Data Source
+## Tech Stack & Data Source
 **Software:**
 * QGIS (Analisis Vektor, Raster, Network Analysis)
 * GitHub (Dokumentasi & Version Control)
