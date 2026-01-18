@@ -53,7 +53,6 @@ Berdasarkan simulasi komputasi, **Sektor Selatan** teridentifikasi sebagai jalur
 | **Tengah** | 44.98 | 89.97 | Moderat |
 | **Selatan** | **34.38** | **68.76** | **✅ Paling Efisien** |
 
-> *Rumus Perhitungan Waktu ($t$): $t = \frac{s}{v}$ dimana $v$ disesuaikan dengan bobot zona aman/bahaya.*
 
 ---
 
