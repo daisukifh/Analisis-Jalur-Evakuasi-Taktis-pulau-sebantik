@@ -2,7 +2,7 @@
 
 
 
-!\[Banner Proyek](gambar/1.jpg)
+!\[Banner Proyek](gambar/1.png)
 
 
 
@@ -44,7 +44,7 @@ Situasi ini menuntut kesiapan mitigasi bencana non-alam, salah satunya adalah pe
 
 \### 1. Load Balancing \& Penerapan Algoritma
 
-!\[Algoritma dan Pembagian Sektor](gambar/3.jpg)
+!\[Algoritma dan Pembagian Sektor](gambar/3.png)
 
 
 
@@ -62,7 +62,7 @@ Untuk mencegah penumpukan (bottleneck), area evakuasi dibagi menjadi 3 sektor ut
 
 \### 2. Analisis Viewshed (Jangkauan Pandang)
 
-!\[Analisis Viewshed](gambar/2.jpg)
+!\[Analisis Viewshed](gambar/2.png)
 
 
 
@@ -86,7 +86,7 @@ Berdasarkan simulasi komputasi, \*\*Sektor Selatan\*\* teridentifikasi sebagai j
 
 
 
-!\[Visualisasi Hasil Akhir](gambar/4.jpg)
+!\[Visualisasi Hasil Akhir](gambar/4.png)
 
 
 
