@@ -64,14 +64,3 @@ Berdasarkan simulasi komputasi, **Sektor Selatan** teridentifikasi sebagai jalur
 **Sumber Data:**
 * DEM (Digital Elevation Model) - Geospasial untuk Negeri
 * Batas Wilayah - Indonesia Geospasial
-
----
-
-## 👤 Author
-**Fikri Hanif**
-* **NIM:** 247056016
-* **Instansi:** Universitas Sumatera Utara (USU)
-* *Program Studi Magister Sains Data dan Kecerdasan Buatan*
-
----
-*Dibuat sebagai bagian dari tugas akhir mata kuliah Data Spasial.*
